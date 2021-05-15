@@ -1,0 +1,9 @@
+# Documentazione generale sull’ APP
+
+## Informazioni generali
+Questa applicazione permette di recuperare informazioni sui prodotti alimentari, scannerizzando il barcode presente su ciascun prodotto
+
+## Privacy policy
+Questa app ha la necessità di utilizzare la camera per effettuare l'individuazione del barcode sul prodotto alimentare. Non attinge alla gallery foto, nè salva fotografie.
+
+Utilizza API pubblicamente accessibili, senza necessità di registrazione
